@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm a student of Computer Science and Games & Simulation at Miami University of Oxford, Ohio.
 
 <!--
 **Carson-Stone-MiamiOH/Carson-Stone-MiamiOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
